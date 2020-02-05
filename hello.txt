@@ -3,3 +3,5 @@ registration
 login
 
  Login successfull
+
+Registration successfull 
